@@ -6,7 +6,7 @@ This is a Repository with different variations of js code testing
 Clone the repository
 
 ```bash
-  git clone 
+  git clone https://github.com/vanyadev/js-tests.git
 ```
 
 Go to one of the project folders
